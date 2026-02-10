@@ -55,7 +55,6 @@ src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sameer-k212&show_icons=true&count_private=true&theme=radical"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sameer-k212&theme=radical"/>
 </p>
 
