@@ -23,7 +23,7 @@
 ---
 ### See LeetCode Profile:   
 
-<a href="https://leetcode.com/u/s_a_m2003/" target="_blank">
+<a href="https://leetcode.com/u/sameer_k212/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
@@ -31,8 +31,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/sameerkushwaha124/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://github.com/sameerkushwaha-124" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://www.linkedin.com/in/sameer-k212/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://github.com/sameer-k212" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
@@ -46,22 +46,22 @@
 
 ### 📊 GitHub Stats (Dynamic)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerkushwaha-124&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerkushwaha-124&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer-k212&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sameer-k212&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🏆 Achievements & Badges
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sameerkushwaha-124&theme=radical&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-k212&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
 ### 🌟 Top Languages
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkushwaha-124&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-k212&layout=compact&theme=radical)
 </p>
 
 ---
@@ -83,7 +83,7 @@
 
 ### 📈 Profile Views
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=sameerkushwaha-124&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sameer-k212&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 ---
@@ -96,12 +96,12 @@
 
 <!-- Dynamic Green-themed Achievement Badges -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameerkushwaha-124&theme=green&row=1&column=6" alt="Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sameer-k212&theme=green&row=1&column=6" alt="Achievements"/>
 </p>
 
 <!-- Dynamic Green Badges for followers, stars, forks -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sameerkushwaha-124?label=Followers&style=for-the-badge&color=4CAF50&logo=github" />
-  <img src="https://img.shields.io/github/stars/sameerkushwaha-124?label=Stars&style=for-the-badge&color=8BC34A&logo=github" />
-  <img src="https://img.shields.io/github/forks/sameerkushwaha-124?label=Forks&style=for-the-badge&color=66BB6A&logo=github" />
+  <img src="https://img.shields.io/github/followers/sameer-k212?label=Followers&style=for-the-badge&color=4CAF50&logo=github" />
+  <img src="https://img.shields.io/github/stars/sameer-k212?label=Stars&style=for-the-badge&color=8BC34A&logo=github" />
+  <img src="https://img.shields.io/github/forks/sameer-k212?label=Forks&style=for-the-badge&color=66BB6A&logo=github" />
 </p>
