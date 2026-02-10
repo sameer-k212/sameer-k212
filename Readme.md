@@ -61,21 +61,7 @@ src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sameer-k212&theme=radical&row=1&column=6"/>
-</p>
-
----
-
-## 🌟 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-k212&layout=compact&theme=radical"/>
-</p>
-
----
 
 ## 🚀 Live Projects
 
