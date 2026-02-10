@@ -94,5 +94,4 @@ src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-
 <p align="center">
 <img src="https://img.shields.io/github/followers/sameer-k212?label=Followers&style=for-the-badge&color=4CAF50&logo=github"/>
 <img src="https://img.shields.io/github/stars/sameer-k212?label=Stars&style=for-the-badge&color=8BC34A&logo=github"/>
-<img src="https://img.shields.io/github/forks/sameer-k212?label=Forks&style=for-the-badge&color=66BB6A&logo=github"/>
 </p>
