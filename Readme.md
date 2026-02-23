@@ -1,6 +1,5 @@
 <!-- Header Animation -->
 
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sameer+Kushwaha;Full+Stack+Developer;MERN+%7C+Java+%7C+DSA+Enthusiast" />
