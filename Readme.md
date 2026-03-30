@@ -9,7 +9,6 @@
 
 🧠 **1150+ Problems Solved (Overall)**  
 ⚡ **930+ Problems on LeetCode**  
-🔥 **222 Days Max Streak**  
 🏆 **70 Contests Participated**  
 
 </p>
